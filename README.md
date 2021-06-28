@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravik9158
 - 👀 I’m interested in Java Web development...
-- 🌱 I’m currently learning Java, ReactJS, microservices, spring-boot & Mysql
+- 🌱 I’m currently learning Java, microservices, spring-boot & Mysql
 
 
 <!---
