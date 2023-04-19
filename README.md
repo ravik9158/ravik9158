@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ravik9158
-- 👀 I’m interested in Java Web development...
-- 🌱 I’m currently learning Java, microservices, spring-boot & Mysql
+- 👀 I’m interested in full stack web development
+- My tech stack includes Java, AngularJS & Mysql(more on the way)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ravikumar121/)
 
 
 <!---
